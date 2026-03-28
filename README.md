@@ -1,15 +1,15 @@
 # dhriti25bai10259-rgb📛
 
->#NAME👩‍🎓
+>#NAME
 Dhriti Shukla
 
->#BRANCH📚
+>#BRANCH
 Btec AIML
 
->#YEAR📆
+>#YEAR
 2025-2026
 
->#FUTURE IDEAS💡
+>#FUTURE IDEAS
 I am looking Forwad to lean Open CV advance.
 Also I have to build projects on it.
 Apart from this Web Dev is on my list.
